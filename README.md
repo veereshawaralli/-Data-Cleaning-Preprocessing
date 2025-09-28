@@ -38,8 +38,14 @@ Titanic dataset
    ```bash
    https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv
 
+###📄 **requirements.txt**  
 
-
+```txt
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
 
 
 
