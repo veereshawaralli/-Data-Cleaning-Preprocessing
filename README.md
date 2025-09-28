@@ -38,5 +38,3 @@ Learn how to clean and prepare raw data for Machine Learning.
 Titanic dataset
    ```text
    https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv
-
-
