@@ -28,7 +28,7 @@ Learn how to clean and prepare raw data for Machine Learning.
     pip install -r requirements.txt
 3. Run the script
    ```bash
-   python task1_data_cleaning.py
+   python 1.py
 4. Cleaned dataset will be saved as:
    ```bash
    cleaned_titanic.csv
