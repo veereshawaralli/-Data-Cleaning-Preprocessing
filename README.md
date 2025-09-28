@@ -21,5 +21,5 @@ Learn how to clean and prepare raw data for Machine Learning.
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/data-cleaning-preprocessing.git
+   git clone https://github.com/veereshawaralli/data-cleaning-preprocessing.git
    cd data-cleaning-preprocessing
