@@ -33,19 +33,7 @@ Learn how to clean and prepare raw data for Machine Learning.
    ```bash
    cleaned_titanic.csv
 
-📊 Dataset
+## 📊 Dataset
 Titanic dataset
-   ```bash
+   ```txt
    https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv
-
-###📄 **requirements.txt**  
-
-```txt
-pandas
-numpy
-seaborn
-matplotlib
-scikit-learn
-
-
-
