@@ -31,9 +31,10 @@ Learn how to clean and prepare raw data for Machine Learning.
    python 1.py
 4. Cleaned dataset will be saved as:
    ```bash
-   cleaned_titanic.csv
+   cleaned_titanic.csv 
 
-## 📊 Dataset
+## 📊 **Dataset**
+
 Titanic dataset
    ```text
    https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv
